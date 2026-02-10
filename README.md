@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 | 2021 | **Основы Unreal Engine 5** | Старт в геймдеве → пет-проекты → выпущенная игра на Android |
 
 
+------------------------------------------------------------------------------------------------
+
 ![blue](https://komarev.com/ghpvc/?username=aksa4y&color=green)
 
 
