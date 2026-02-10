@@ -53,7 +53,6 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2026)
 
 
 ![blue](https://komarev.com/ghpvc/?username=aksa4y&color=green)
