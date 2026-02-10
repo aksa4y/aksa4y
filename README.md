@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 Технологии, с которыми я начинаю свой путь и исследую их возможности.
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### ⚙️ Инструменты & Практики
 Моя рабочая среда и площадка для оттачивания логики.
