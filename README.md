@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![blue](https://komarev.com/ghpvc/?username=github.com/aksa4y&color=green)
+![blue](https://komarev.com/ghpvc/?username=aksa4y&color=green)
