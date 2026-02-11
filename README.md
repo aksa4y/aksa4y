@@ -51,6 +51,10 @@ Here are some ideas to get you started:
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 
+### 🖥️ Операционные системы
+Работаю в Ubuntu, имею опыт настройки и использования в разработке.
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ###  Образование & Курсы
 
