@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🎯 Мой технологический стек & Навыки
 
 ### 🎮 Геймдев & Интерактивные проекты
-Более 2 лет опыта в Unreal Engine. Есть пет-проекты и выпущенная игра на Android.
+Более 3 лет опыта в Unreal Engine. Есть пет-проекты и выпущенная игра на Android.
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
